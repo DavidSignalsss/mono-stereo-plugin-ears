@@ -1,0 +1,33 @@
+# Build directories
+Builds/
+bin/
+obj/
+DerivedData/
+
+# Plugin files
+*.vst3
+*.component
+*.aaxplugin
+*.vst
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.log
+*.dSYM/
+
+# Projucer
+*.zip
+*.dmg
+*.pkg
