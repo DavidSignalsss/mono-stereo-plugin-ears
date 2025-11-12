@@ -223,7 +223,7 @@ juce::AudioProcessor* JUCE_CALLTYPE createPluginFilter()
 }
 
 
-###PluginProcessor.h:
+###PluginProcessor.h
 #pragma once
 
 #include <JuceHeader.h>
@@ -274,7 +274,7 @@ private:
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (MonoStereoAudioProcessor)
 };
 
-###PluginEditor.cpp:
+###PluginEditor.cpp
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
@@ -437,7 +437,7 @@ void MonoStereoAudioProcessorEditor::updatePanSliderState()
     panLabel.setAlpha(isStereoMode ? 1.0f : 0.4f);
 }
 
-###PluginEditor.h:
+###PluginEditor.h
 #pragma once
 
 #include <JuceHeader.h>
