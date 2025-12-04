@@ -29,6 +29,8 @@
 ### Stereo Mode (Blue)
 ![Stereo Mode](Stereo.png)
 
+</div>
+
 ## 🎛️ Controls
 
 | Parameter | Range | Description | Availability |
