@@ -29,12 +29,6 @@
 ### Stereo Mode (Blue)
 ![Stereo Mode](Stereo.png)
 
-### Plugin in Action
-![Mono Mode](Monovector.png)
-
-![Stereo Mode](Stereovector.png)
-</div>
-
 ## 🎛️ Controls
 
 | Parameter | Range | Description | Availability |
@@ -55,3 +49,7 @@
 ```cpp
 // Mono Mode: (L + R) * 0.5 → Both Channels
 // Stereo Mode: L * (1 - pan), R * (1 + pan) for pan range -1 to 1
+
+### 🚀 Installation
+1. Clone repository:
+git clone https://github.com/davidsignals/mono-stereo-ears.git
