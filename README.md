@@ -46,10 +46,31 @@
 - **AudioProcessorValueTreeState** for parameter management
 
 ### Signal Processing
-```cpp
+
 // Mono Mode: (L + R) * 0.5 → Both Channels
 // Stereo Mode: L * (1 - pan), R * (1 + pan) for pan range -1 to 1
 
 ### 🚀 Installation
 1. Clone repository:
 git clone https://github.com/davidsignals/mono-stereo-ears.git
+
+### 📊 Technical Specifications
+- **Platform: macOS 11.0+ (Apple Silicon & Intel)**
+- **Sample Rates: 44.1kHz - 192kHz**
+- **Bit Depth: 32-bit floating point**
+- **Channels: 2-in, 2-out**
+- **DAW Compatibility: Logic Pro, Ableton Live, Pro Tools, Reaper, Cubase, etc.**
+
+### 👨‍💻 Author
+David Rábago Félix (Professional Alias: David Signals)
+Audio Plugin Developer & Sound Engineer
+
+### Connect
+- **GitHub: davidsignalsss*
+- **Portfolio: davidsignalsss.github.io*
+- **Email: hello@davidsignals.com*
+
+### 📄 License
+MIT License - See LICENSE file for details
+
+```cpp
