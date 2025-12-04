@@ -51,7 +51,6 @@
 // Stereo Mode: L * (1 - pan), R * (1 + pan) for pan range -1 to 1
 
 ### 🚀 Installation
-```bash
 1. Clone repository:
 git clone https://github.com/davidsignalsss/mono-stereo-ears.git
 
@@ -64,7 +63,7 @@ git clone https://github.com/davidsignalsss/mono-stereo-ears.git
 
 ### 👨‍💻 Author
 David Rábago Félix (Professional Alias: David Signals)
-Audio Plugin Developer & Sound Engineer
+Audio Plugin Developer & Mechatronic Engineer
 
 ### Connect
 - **GitHub: davidsignalsss**
