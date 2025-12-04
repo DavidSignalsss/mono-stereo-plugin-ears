@@ -30,9 +30,9 @@
 ![Stereo Mode](Stereo.png)
 
 ### Plugin in Action
-![Plugin in DAW](Monovector.png)
+![Mono Mode](Monovector.png)
 
-![Plugin in DAW](Stereovector.png)
+![Stereo Mode](Stereovector.png)
 </div>
 
 ## 🎛️ Controls
