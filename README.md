@@ -24,15 +24,15 @@
 <div align="center">
 
 ### Mono Mode (Turquoise)
-![Mono Mode](screenshots/Mono.png)
+![Mono Mode](Mono.png)
 
 ### Stereo Mode (Blue)
-![Stereo Mode](screenshots/Stereo.png)
+![Stereo Mode](Stereo.png)
 
 ### Plugin in Action
-![Plugin in DAW](screenshots/Monovector.png)
+![Plugin in DAW](Monovector.png)
 
-![Plugin in DAW](screenshots/Stereovector.png)
+![Plugin in DAW](Stereovector.png)
 </div>
 
 ## 🎛️ Controls
